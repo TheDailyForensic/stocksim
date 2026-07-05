@@ -4,7 +4,7 @@ A global paper trading simulator. Every user gets $10,000 virtual cash to trade 
 
 **Live data. Zero cost. 35+ assets across 8 exchanges.**
 
-**Live app: https://stockenshares.onrender.com/** (this is the working deployment, not the code in this repo directly)
+**Live app: https://stockenshares.onrender.com/** 
 
 ---
 
