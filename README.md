@@ -76,7 +76,3 @@ python app.py
 - Render free tier cold-starts (20 to 40s) after 15 min idle
 - TradingView charts only work for US tickers (format mismatch with Yahoo's `.NS`/`.BO`/`^` symbols, solved via a separate Lightweight Charts pipeline for everything non-US)
 - Flask sessions are cookie-based, won't survive multi-instance load balancing without Redis
-
-## License
-
-MIT (or whatever you're using)
