@@ -44,7 +44,7 @@ No build tools. Clone it, `python app.py`, done.
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/nithilan-alt-f4/StockenShares
 cd stockenshares
 pip install -r requirements.txt
 ```
